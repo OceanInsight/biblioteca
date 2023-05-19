@@ -1,0 +1,385 @@
+Floating math
+-------------
+Comparing Floating Points Numbers is Tricky
+https://bitbashing.io/comparing-floats.html
+
+Online converter
+https://babbage.cs.qc.cuny.edu/IEEE-754.old/Decimal.html
+
+PCB motor
+https://pcbmotor.com/applications-and-solutions/optical-solutions/
+
+Airplane Guidance
+https://flarm.com/
+
+YouTube
+-------
+BinaryAdventure
+
+Radare2 Tutorial 1 - Static Disassembly Navigation
+https://www.youtube.com/watch?v=oW8Ey5STrPI&list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ
+
+DEF CON 30 - stacksmashing - The Hitchhacker’s Guide to iPhone Lightning and JTAG Hacking
+https://www.youtube.com/watch?v=8p3Oi4DL0eI
+
+DOOM’s Development: A Year of Madness
+https://www.youtube.com/watch?v=eBU34NZhW7I
+
+The Trick That Solves Rubik’s Cubes and Breaks Ciphers (Meet in the Middle)
+https://www.youtube.com/watch?v=wL3uWO-KLUE
+
+Premature Optimization
+CodeAesthetic
+https://www.youtube.com/watch?v=tKbV6BpH-C8
+
+How to send a self-correcting message (Hamming codes)
+3Blue1Brown
+https://www.youtube.com/watch?v=X8jsijhllIA
+
+Hamming codes part 2, the elegance of it all
+https://www.youtube.com/watch?v=b3NxrZOu_CE
+
+Fast Inverse Square Root — A Quake III Algorithm
+Nemean
+https://www.youtube.com/watch?v=p8u_k2LIZyo
+
+How Amateurs created the world´s most popular Processor
+LowSpecGamer
+https://www.youtube.com/watch?v=nIwdhPOVOUk
+
+Naming Things in Code
+CodeAesthetic
+https://www.youtube.com/watch?v=-J3wNP6u5YU
+
+SSD stuff
+---------
+Crucial SSD Drive Failed - Can we save data.?
+NorthridgeFix
+https://www.youtube.com/watch?v=e_oBQ2UFZSU
+
+Smoke Detectors
+---------------
+Video about different detector types
+https://www.youtube.com/watch?v=DuAeaIcAXtg
+
+The secrets of Apple Lightning - Part 1
+https://www.youtube.com/watch?v=p5tMaWsuGk0
+Tool to reverse CRC algorithm
+CRC RevEng
+
+Linux File System/Structure Explained!
+https://www.youtube.com/watch?v=HbgzrKJvDRw
+
+
+Politics
+--------
+Perun channel
+https://www.youtube.com/@PerunAU
+
+Logger software
+---------------
+Inlinio
+https://github.com/OceanOptics/Inlinino/tree/master/docs
+They have a small study using the offshelf analog ADC and Arduino
+
+Flipper Zero Controlling Traffic Lights
+https://www.youtube.com/watch?v=TrVLmTLHgew
+
+Computerphile
+-------------
+Rust and RAII Memory Management - Computerphile
+https://www.youtube.com/watch?v=pTMvh6VzDls
+
+The 6502 Rotate Right Myth
+https://www.youtube.com/watch?v=Uk_QC1eU0Fg
+
+Physics
+-------
+I did the double slit experiment at home
+Note: some good advise on Lasers and the potential harmful stuff sold on Amazon.
+https://www.youtube.com/watch?v=v_uBaBuarEM
+
+
+In-depth: ELF - The Extensible & Linkable Format
+stacksmashing
+https://www.youtube.com/watch?v=nC1U1LJQL8o
+
+
+So how does your computer ACTUALLY compute sine? Basics of trig and more…
+https://www.youtube.com/watch?v=kkMt4lrJzs8
+
+
+Books
+-----
+Operating Systems Design and Implementations
+Andrew Tanenbaum
+https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf
+
+People
+------
+John Carmack
+He is one of the programmers behind Doom
+
+Jim Keller
+Worked at AMD designing chips
+https://en.wikipedia.org/wiki/Jim_Keller_(engineer)
+
+Andrej Karpathy
+He was the Sr. Director of AI at Tesla
+https://karpathy.ai/
+
+-----------------
+GitHub Projects
+-----------------
+Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp#whispercpp
+
+----------
+Magnetics
+----------
+https://smmagnetics.com/
+
+Oil leak
+--------
+How to Fix Common Honda Oil Leaks
+https://www.youtube.com/watch?v=vGwufWXsnvU
+
+Honda Civic Leaking Oil on Passenger Side from Cylinder Head
+https://www.youtube.com/watch?v=EegU_X8c6hU
+Honda gasket part number: 15826-RNA-A01
+
+Coats and Gaiters
+Honda CRV 2 litre K20 A4 Head Gasket Repair Part 4 of 10
+https://www.youtube.com/watch?v=Vv8dbGgxbOg
+
+JM Auto Repair
+how to remove the intake manifold 2008 2012 honda accord 2.4 intake manifold removal
+https://www.youtube.com/watch?v=PQJfAUDu6Xg
+
+Apple Lightning
+---------------
+https://nyansatan.github.io/lightning/
+It touches different technologies Tristar, Hydra, HiFive, SDQ, IDBUS
+
+Cyber Security
+--------------
+https://www.youtube.com/watch?v=HDy_sYYw5PE
+Jack Rhysider
+"I rob banks for a living," but it's all totally legal🎙Darknet Diaries Ep. 66: Freakyclown
+
+His Accidental Virus Took Down the World's Biggest Website Darknet Diaries Ep. 61: Samy
+https://www.youtube.com/watch?v=8BzoEiK6evE
+
+Statistics
+----------
+But what is the Central Limit Theorem?
+3Blue1Brown
+https://www.youtube.com/watch?v=zeJD6dqJ5lo
+
+Python
+------
+markdown-toc-extract
+https://github.com/CribberSix/markdown-toc-extract/blob/main/extracttoc/extracttoc.py
+
+C language
+----------
+https://github.com/mity/md4c
+C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+
+Breaking the SSD lock
+https://github.com/mrtcode/ssd
+
+TestDisk & PhotoRec
+https://github.com/cgsecurity/testdisk
+
+Apple Lightning
+https://nyansatan.github.io/lightning/
+
+Car mechanics
+-------------
+Honda / Acura Power Steering Flush / Change | The Proper And Thorough Way!
+https://www.youtube.com/watch?v=BmSgGPPevEw
+
+Honda crv power steering leak
+https://www.youtube.com/watch?v=3r4aW_5gxYM
+
+Honda Parts
+https://www.hondapartsonline.net/
+https://www.hondapartsnow.com/
+
+Concrete
+--------
+How To DIY Dry Pour A Large Concrete Slab In Real Time
+https://www.youtube.com/watch?v=kgsumOvHvb0
+
+Photography/Video Editing
+-------------------------
+PeterMcKinnon
+https://www.youtube.com/@PeterMcKinnon
+
+Resolve 18
+----------
+RESOLVE 18 CRASH COURSE - Davinci Resolve 18 Walkthrough [BEGINNER]
+https://www.youtube.com/watch?v=h9MrEaELl2M
+
+Musica
+------
+Belinda Carlisle - Heaven Is A Place On Earth
+https://www.youtube.com/watch?v=j2F4INQFjEI
+
+Security
+--------
+Last pass zero knowledge
+https://www.lastpass.com/security/zero-knowledge-security
+
+-------------
+Honda Repairs
+-------------
+Seems like the place where our leak is located
+https://www.hcrv.net/water_passage_replacement-1654.html
+
+2007-2011 Honda CRV, Replace Positive Crankcase Ventilation Valve
+https://www.youtube.com/watch?v=pOMBgdVioUQ
+
+Diagram for cooloant system
+https://www.haccord.org/cooling_system-840.html
+
+
+-----------------
+Engineering Roles
+-----------------
+https://newsletter.pragmaticengineer.com/p/what-is-a-staff-engineer
+https://medium.com/dsckiit/the-well-rounded-engineer-f8372dba5c70
+https://thetechresume.com/A_Good_Tech_Resume.pdf
+https://thetechresume.com/samples/original-pdf.html
+
+Web page presentation example
+-----------------------------
+https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/
+
+Drywall Repair
+--------------
+STOP- Before you Mud over Torn Drywall Paper, WATCH THIS, part 1 of 2
+https://www.youtube.com/watch?v=MjZRS4f6MIY
+
+-----------------------------
+Sprinkler
+-----------------------------
+How to Use Orbit Sprinkler Designer
+https://www.youtube.com/watch?v=6letKY8NiNA
+
+-------------------------------
+Home A/C repair
+-------------------------------
+
+Was Quoted $400. I Fixed It For $11.72! AC Capacitor Testing and Replacement
+https://www.youtube.com/watch?v=i8nDBZo6XyE
+
+-------------------------------
+Money
+-------------------------------
+
+How I Make $1.5 Million as a Street Vendor
+https://www.youtube.com/watch?v=d5MZAiogzeg
+
+--------------------------------
+Software Engineering Testing
+--------------------------------
+Regression Testing: "Hey, can we add this one small thing? It shouldn't really have an impact."
+https://www.reddit.com/r/QualityAssurance/comments/y0i4vi/regression_testing_hey_can_we_add_this_one_small/
+
+How do I explain to a non-tech exec that Software is hard to build?.
+https://www.reddit.com/r/softwaredevelopment/comments/xhh6k7/how_do_i_explain_to_a_nontech_exec_that_software/
+
+Does becoming a better Developer lead to becoming a Senior Developer?
+https://www.reddit.com/r/ExperiencedDevs/comments/12vtltf/does_becoming_a_better_developer_lead_to_becoming/
+
+What are some of the habits/behaviors/philosophies that the best managers' you've had have had?
+https://www.reddit.com/r/ExperiencedDevs/comments/12owc5s/what_are_some_of_the_habitsbehaviorsphilosophies/
+
+---------------------------------
+Books
+---------------------------------
+
+Turn the Ship Around!: A True Story of Turning Followers into Leaders
+https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404
+
+---------------------------------
+Car auctions
+---------------------------------
+https://www.copart.com/
+
+---------------------------------
+Open Source Drone
+---------------------------------
+Teaching my custom AI drone to track humans
+https://www.youtube.com/watch?v=Zq_2_BEfU_s
+
+https://docs.px4.io/main/en/complete_vehicles/px4_vision_kit.html
+
+https://holybro.com/products/px4-vision-dev-kit-v1-5
+
+---------------------------------
+Metal Buildings
+---------------------------------
+https://www.eversafebuildings.com/
+
+----------------------------------
+Machine Learning
+----------------------------------
+PhD student at Stanford
+https://www.rohantaori.com/
+
+Stanford Alpaca
+https://crfm.stanford.edu/2023/03/13/alpaca.html
+
+-----------------------------------
+SSH Keys
+-----------------------------------
+Multiple SSH keys
+https://gist.github.com/jexchan/2351996
+
+This tutorial is the deal
+https://gist.github.com/aprilmintacpineda/f101bf5fd34f1e6664497cf4b9b9345f
+
+-----------------------------------
+China
+-----------------------------------
+American guy that lived in China
+https://www.youtube.com/@CyrusJanssen
+
+Speakig chinesse at Vancouver
+https://www.youtube.com/watch?v=Q81nDrcYTi8
+
+------------------------------------
+Car suspention
+------------------------------------
+Tired of Suspension Noise? Fix it Yourself in a Weekend with a Complete Car or Truck Suspension Kit
+https://www.youtube.com/watch?v=8L59QM8cKAk
+
+------------------------------------
+Web Development
+------------------------------------
+codewithsadee
+This is the sample website
+https://www.youtube.com/channel/UC1PZHWV6VvICTL1LgFUZq6g
+
+-------------------------------------
+Ham radio equipment
+-------------------------------------
+Winter Spring, FL
+https://www.hamradio.com/locations.cfm?storeid=2
+
+Receiving Antenna for Weather Satellite NOAA & ACARS - SO-239
+https://www.hamradio.com/detail.cfm?pid=H0-016157
+
+https://www.passion-radio.com/
+
+
+-------------------------------------
+Boating
+-------------------------------------
+Life By The Bow
+
+Florida to The Bahamas in a Small Boat
+https://www.youtube.com/watch?v=tVrntznSIco
