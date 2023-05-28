@@ -395,3 +395,118 @@ Solar water heater
 -------------------------------------
 Why Don't We All Use Solar Water Heaters?
 https://www.youtube.com/watch?v=fAyY0kGmgmc
+
+--------------------------------------
+Javascript
+--------------------------------------
+https://learnjavascript.online/
+
+--------------------------------------
+Debugging Front End
+--------------------------------------
+Debugging with Chrome
+https://developer.chrome.com/docs/devtools/javascript/
+
+--------------------------------------
+Front end Concepts
+--------------------------------------
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document
+
+5 JavaScript Concepts You HAVE TO KNOW
+https://www.youtube.com/watch?v=a00NRSFgHsY
+
+CSS Sidebars: A Beginner's Guide
+https://blog.hubspot.com/website/css-sidebar
+
+--------------------------------------
+Java Script
+--------------------------------------
+JavaScript building blocks
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks
+
+Creating hyperlinks
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+
+--------------------------------------
+Networking
+--------------------------------------
+subnetting my coffee shop
+https://www.youtube.com/watch?v=B1vqKQIPxr0
+
+we’re out of IP Addresses….but this saved us (Private IP Addresses)
+https://www.youtube.com/watch?v=8bhvn9tQk8o
+
+---------------------------------------
+pFSense
+---------------------------------------
+
+https://www.youtube.com/watch?v=fsdm5uc_LsU
+
+-----------------------------------------
+WebRTC
+-----------------------------------------
+Agent DVR uses WebRTC to setup remote connections so doesn't require any port forwarding
+setup and will work even over mobile internet connections.
+
+The WebRTC standard covers, on a high level, two different technologies: media capture devices and peer-to-peer connectivity.
+https://webrtc.org/getting-started/overview
+
+This is a fork of WebRTC made by pixiv Inc
+https://github.com/pixiv/webrtc
+
+WebRTC samples
+https://webrtc.github.io/samples/
+
+-------------------------------------------
+Business
+-------------------------------------------
+How to get rich as a solo software developer - The Ultimate Guide
+https://www.youtube.com/watch?v=A4_TFHzqAAg
+
+-------------------------------------------
+Machine Learning
+-------------------------------------------
+Before Machine Learning Volume 1 - Linear Algebra for A.I
+Jorge Brasil
+https://www.amazon.com/Before-Machine-Learning-fundamental-Inteligence-ebook
+
+-------------------------------------------
+High Tech
+-------------------------------------------
+Spotify Bar codes
+https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
+https://boonepeter.github.io/posts/spotify-codes-part-2/
+
+-------------------------------------------
+RTOS
+-------------------------------------------
+Certified Real Time Operating Systems
+https://www.ddci.com/corporate_overview/corporate_overview/careers/
+
+-------------------------------------------
+GPS
+-------------------------------------------
+GPS receiver theory
+http://lea.hamradio.si/~s53mv/navsats/theory.html
+
+-------------------------------------------
+Identity Theft
+-------------------------------------------
+Why & Where You Should Plant Your Flag
+https://krebsonsecurity.com/2020/08/why-where-you-should-you-plant-your-flag/
+
+--------------------------------------------
+Sensor Technology
+--------------------------------------------
+https://www.stsci.edu/instruments/wfpc2/Wfpc2_hand_current/wfpc2_inst_hbTOC.html
+
+--------------------------------------------
+Hardware Security
+--------------------------------------------
+https://wallet.fail/
+
+Introduction to Cryptocurrency Hardware Wallet Recovery
+https://advancedsecurity.training/training/live-wallet-recovery-intro/?event=live-wallet-recovery-intro-spring-2022
+
+
