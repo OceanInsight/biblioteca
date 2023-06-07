@@ -419,6 +419,9 @@ https://www.youtube.com/watch?v=a00NRSFgHsY
 CSS Sidebars: A Beginner's Guide
 https://blog.hubspot.com/website/css-sidebar
 
+Airbnb CSS / Sass Styleguide
+https://github.com/airbnb/css
+
 --------------------------------------
 Java Script
 --------------------------------------
@@ -427,6 +430,9 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks
 
 Creating hyperlinks
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+
+Eloquent JavaScript, A Modern Introduction to Programming
+Marijn Haverbeke
 
 --------------------------------------
 Networking
@@ -509,4 +515,130 @@ https://wallet.fail/
 Introduction to Cryptocurrency Hardware Wallet Recovery
 https://advancedsecurity.training/training/live-wallet-recovery-intro/?event=live-wallet-recovery-intro-spring-2022
 
+Power glitching, hardware vendor
+https://www.newae.com/products/NAE-CW1173
 
+---------------------------------------------
+Construction
+---------------------------------------------
+Digging Out a Tiny Basement, Start to Finish - Timelapse
+https://www.youtube.com/watch?v=rZuNbu52h1w
+
+---------------------------------------------
+C++ Embedded Systems
+---------------------------------------------
+C++17’s Useful Features for Embedded Systems
+https://interrupt.memfault.com/blog/cpp-17-for-embedded
+
+https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io
+
+---------------------------------------------
+Kaizen Tool Organization
+---------------------------------------------
+https://www.youtube.com/watch?v=e3hSwLJcxsk
+
+---------------------------------------------
+Airtag
+---------------------------------------------
+Apple AirTag Reverse Engineering
+https://adamcatley.com/AirTag.html
+
+---------------------------------------------
+Exercise
+---------------------------------------------
+Unlock Your Full Back in Seconds
+https://www.youtube.com/shorts/rWFRxEr6eQ8
+
+---------------------------------------------
+Linkind
+---------------------------------------------
+Adam Catley
+https://www.linkedin.com/in/adamcatley/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BT4DFbiPdRNCvYgU%2B2ZLDuA%3D%3D
+
+---------------------------------------------
+Car repair
+---------------------------------------------
+How to torque spinning pulley Honda Odyssey
+https://www.youtube.com/watch?v=9MF-9Bpf5NA
+
+Honda Accord Power Steering Pump Replacement & Pulley Removal (2003-2007)
+https://www.youtube.com/watch?v=hdb_rjRwUcg
+
+power steering leak | how to repair power steering pump honda crv
+https://www.youtube.com/watch?v=LVTew5YtJkY
+
+Honda diagram for steering pump pulley removal
+https://www.hondaaccordforum.com/forum/general-tech-help-7/93-power-steering-pump-seals-replacement-52204/#&gid=1&pid=1
+
+2003 Honda Accord cómo cambiar la Bomba hidráulica, dirección
+Shows pulley removal
+https://www.youtube.com/watch?v=5uwRhr7X68Y
+
+Power Steering Pressure Test
+https://www.youtube.com/watch?v=jB4cnhi1faY
+
+Words:
+Restriction on the system
+Restricted hose
+Restriction steering gear
+Cut off the flow from the pump and deadhead the pump
+
+
+---------------------------------------------
+Welding
+---------------------------------------------
+Few know, strong hinge installation technique
+https://www.youtube.com/watch?v=Pu6eHqDHXtg
+
+----------------------------------------------
+C/C++
+----------------------------------------------
+C/C++ Expert Dan Saks
+https://dansaks.com/articles.shtml
+
+Interview Questions
+http://alumni.cs.ucr.edu/~lyan/c++interviewquestions.pdf
+
+----------------------------------------------
+Organization
+----------------------------------------------
+Metal peg boards
+https://omniwallusa.com/beginner-starter-kit/
+
+----------------------------------------------
+Thread Locker
+----------------------------------------------
+The Ultimate Threadlocker Competition--Which is the Best?
+https://www.youtube.com/watch?v=S-uN-d7XtL4
+
+----------------------------------------------
+VoIP
+----------------------------------------------
+Creating a Playful Telephony Network with Asterisk - Part 2
+Hands on experiment
+https://www.youtube.com/watch?v=4G4u-2mDtCY
+
+----------------------------------------------
+STM32 Projects
+----------------------------------------------
+Tutorial, playing audio with STM32. Three parts tutorial.
+https://community.st.com/s/article/how-to-play-audio-files-using-stm32-part-1
+
+Tremolo Effect - Digital Audio Processing with STM32 #3 - Phil's Lab #51
+Project using STM32 and Audio Codec
+https://www.youtube.com/watch?v=cj8E1ivCCEo
+
+-----------------------------------------------
+Open source hardware
+-----------------------------------------------
+Philip Salmony
+https://www.youtube.com/@PhilsLab
+
+His GitHub repo
+https://github.com/pms67?tab=repositories
+
+-----------------------------------------------
+Real State
+-----------------------------------------------
+
+https://www.youtube.com/watch?v=IuM8n69mlkI
