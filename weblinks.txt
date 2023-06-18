@@ -590,6 +590,18 @@ Welding
 Few know, strong hinge installation technique
 https://www.youtube.com/watch?v=Pu6eHqDHXtg
 
+#1 Mistake Made When Flux Core Welding (one simple Trick)
+https://www.youtube.com/watch?v=IjmRDZPQios
+
+3 Flux Core Welding Myths DEBUNKED
+https://www.youtube.com/watch?v=TM8MDrZFz7Y
+
+Gasless Flux Core Welding Basics for Beginners
+https://www.youtube.com/watch?v=zozvECWvcjk
+
+Tim Welds
+https://www.youtube.com/@TimWelds/videos
+
 ----------------------------------------------
 C/C++
 ----------------------------------------------
@@ -640,5 +652,32 @@ https://github.com/pms67?tab=repositories
 -----------------------------------------------
 Real State
 -----------------------------------------------
-
 https://www.youtube.com/watch?v=IuM8n69mlkI
+
+-----------------------------------------------
+Welding
+-----------------------------------------------
+
+-----------------------------------------------
+Windows
+-----------------------------------------------
+Inside Task Manager with the Original Author
+https://www.youtube.com/watch?v=Ve95Nh690l0
+
+-----------------------------------------------
+Audio
+-----------------------------------------------
+Debunking the Digital Audio Myth: The Truth About the 'Stair-Step' Effect
+https://www.youtube.com/watch?v=cD7YFUYLpDc
+
+-----------------------------------------------
+SQL Injection
+-----------------------------------------------
+MOVEit Transfer CVE-2023-34362 Deep Dive and Indicators of Compromise
+https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-of-compromise/
+
+------------------------------------------------
+GE Stove
+------------------------------------------------
+Stove heating element not working
+https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Range-Stove-Oven/14-3-1433341-/New/Ge-Stove-Heating-Element-Not-Working-JB690SF1SS
