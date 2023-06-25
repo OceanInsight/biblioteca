@@ -134,6 +134,16 @@ GitHub Projects
 Port of OpenAI's Whisper model in C/C++
 https://github.com/ggerganov/whisper.cpp#whispercpp
 
+
+------------------------------------
+Good video production
+------------------------------------
+Gordon's Guide To Mushrooms | Gordon Ramsay
+https://www.youtube.com/watch?v=H6r65SHkpVs
+
+- Nice shoot showing different mushrooms
+- 
+
 ----------
 Magnetics
 ----------
@@ -161,8 +171,9 @@ Apple Lightning
 https://nyansatan.github.io/lightning/
 It touches different technologies Tristar, Hydra, HiFive, SDQ, IDBUS
 
+------------------
 Cyber Security
---------------
+------------------
 https://www.youtube.com/watch?v=HDy_sYYw5PE
 Jack Rhysider
 "I rob banks for a living," but it's all totally legal🎙Darknet Diaries Ep. 66: Freakyclown
@@ -170,8 +181,25 @@ Jack Rhysider
 His Accidental Virus Took Down the World's Biggest Website Darknet Diaries Ep. 61: Samy
 https://www.youtube.com/watch?v=8BzoEiK6evE
 
+How To Extract Plaintext Google Chrome Passwords
+https://www.youtube.com/watch?v=CIOsemj3kl4
+
+Decrypt Chrome Passwords
+https://github.com/ohyicong/decrypt-chrome-passwords
+
+Pegassus NSO Blogs from Google Project zero
+https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html
+
+Heap Tracker
+https://github.com/KDE/heaptrack
+
+Training
+https://www.hackers-arise.com/welcome
+
+----------------
 Statistics
-----------
+----------------
 But what is the Central Limit Theorem?
 3Blue1Brown
 https://www.youtube.com/watch?v=zeJD6dqJ5lo
@@ -195,18 +223,7 @@ https://github.com/cgsecurity/testdisk
 Apple Lightning
 https://nyansatan.github.io/lightning/
 
-Car mechanics
--------------
-Honda / Acura Power Steering Flush / Change | The Proper And Thorough Way!
-https://www.youtube.com/watch?v=BmSgGPPevEw
-
-Honda crv power steering leak
-https://www.youtube.com/watch?v=3r4aW_5gxYM
-
-Honda Parts
-https://www.hondapartsonline.net/
-https://www.hondapartsnow.com/
-
+----------
 Concrete
 --------
 How To DIY Dry Pour A Large Concrete Slab In Real Time
@@ -281,6 +298,9 @@ Money
 
 How I Make $1.5 Million as a Street Vendor
 https://www.youtube.com/watch?v=d5MZAiogzeg
+
+Why Dumb People Earn More Than Smart People
+https://www.youtube.com/watch?v=aVZ1sSnIKrg
 
 --------------------------------
 Software Engineering Testing
@@ -535,6 +555,7 @@ https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io
 ---------------------------------------------
 Kaizen Tool Organization
 ---------------------------------------------
+OCD Toolbox Organization—No Talking, No Music
 https://www.youtube.com/watch?v=e3hSwLJcxsk
 
 ---------------------------------------------
@@ -558,6 +579,12 @@ https://www.linkedin.com/in/adamcatley/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%
 ---------------------------------------------
 Car repair
 ---------------------------------------------
+Words:
+Restriction on the system
+Restricted hose
+Restriction steering gear
+Cut off the flow from the pump and deadhead the pump
+
 How to torque spinning pulley Honda Odyssey
 https://www.youtube.com/watch?v=9MF-9Bpf5NA
 
@@ -577,12 +604,21 @@ https://www.youtube.com/watch?v=5uwRhr7X68Y
 Power Steering Pressure Test
 https://www.youtube.com/watch?v=jB4cnhi1faY
 
-Words:
-Restriction on the system
-Restricted hose
-Restriction steering gear
-Cut off the flow from the pump and deadhead the pump
+How To Check and Replace a Bad Tie Rod ~ Clunk While Turning
+https://www.youtube.com/watch?v=0SsV_pbEM7A
 
+Honda / Acura Power Steering Flush / Change | The Proper And Thorough Way!
+https://www.youtube.com/watch?v=BmSgGPPevEw
+
+Honda crv power steering leak
+https://www.youtube.com/watch?v=3r4aW_5gxYM
+
+Honda Parts
+https://www.hondapartsonline.net/
+https://www.hondapartsnow.com/
+
+Diagnose and Fix Rough Car Idle - Main Causes For Shaking / Vibrating While at a Stop
+https://www.youtube.com/watch?v=deypkLZpRRk
 
 ---------------------------------------------
 Welding
@@ -679,5 +715,18 @@ https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-
 ------------------------------------------------
 GE Stove
 ------------------------------------------------
+Infinite Heat Switch - Testing & Replacement | Repair & Replace
+https://www.youtube.com/watch?v=JKrrOflS1RM
+
 Stove heating element not working
 https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Range-Stove-Oven/14-3-1433341-/New/Ge-Stove-Heating-Element-Not-Working-JB690SF1SS
+
+------------------------------------------------
+Cooking
+------------------------------------------------
+Gordon's Guide To Mushrooms | Gordon Ramsay
+https://www.youtube.com/watch?v=H6r65SHkpVs
+
+The Best Chicken Breast You'll Ever Make
+https://www.youtube.com/watch?v=NTBRThwL-2c
+
