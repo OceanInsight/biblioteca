@@ -545,18 +545,15 @@ Digging Out a Tiny Basement, Start to Finish - Timelapse
 https://www.youtube.com/watch?v=rZuNbu52h1w
 
 ---------------------------------------------
-C++ Embedded Systems
+Embedded Systems
 ---------------------------------------------
 C++17’s Useful Features for Embedded Systems
 https://interrupt.memfault.com/blog/cpp-17-for-embedded
 
 https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io
 
----------------------------------------------
-Kaizen Tool Organization
----------------------------------------------
-OCD Toolbox Organization—No Talking, No Music
-https://www.youtube.com/watch?v=e3hSwLJcxsk
+A Practical guide to ARM Cortex-M Exception Handling
+https://interrupt.memfault.com/blog/arm-cortex-m-exceptions-and-nvic
 
 ---------------------------------------------
 Airtag
@@ -666,6 +663,9 @@ Creating a Playful Telephony Network with Asterisk - Part 2
 Hands on experiment
 https://www.youtube.com/watch?v=4G4u-2mDtCY
 
+Windows software for VoIP -open source-
+www.microsip.org
+
 ----------------------------------------------
 STM32 Projects
 ----------------------------------------------
@@ -745,9 +745,38 @@ https://www.youtube.com/watch?v=VSOUIg8fWhw
 How I Made A Multi Million Dollar Welding Business Before The Age Of 28 - Welding For Beginners
 https://www.youtube.com/watch?v=R0pbHKBEK5A
 
+If I Started From Scratch Again, I’d Do This
+https://www.youtube.com/watch?v=6IiEoSHw9gY
+
 --------------------------------------------------
 Physicology
 --------------------------------------------------
 3 THINGS to do when PEOPLE STARE at YOU with BAD INTENTIONS
 https://www.youtube.com/watch?v=6KtFYqjTdik
+
+How To Make People Respect You If You're Quiet
+https://www.youtube.com/watch?v=R8uZfwJMkqM
+
+7 Attractive Habits That Make Women Beg For Your Attention
+https://www.youtube.com/watch?v=8NalcOPBXvs
+
+--------------------------------------------------
+Opinions
+--------------------------------------------------
+Why Modern Movies Suck - The Strong Female Character
+https://www.youtube.com/watch?v=xPE7-PRL0M8
+
+Indiana Jones - Destined To Flop
+https://www.youtube.com/watch?v=8KG-SfghRJE
+
+---------------------------------------------------
+Organization
+---------------------------------------------------
+Making Vertical Bit Drawer
+https://www.youtube.com/watch?v=mWLpIPLrzaY
+
+Kaizen Tool Organization
+
+OCD Toolbox Organization—No Talking, No Music
+https://www.youtube.com/watch?v=e3hSwLJcxsk
 
