@@ -780,3 +780,9 @@ Kaizen Tool Organization
 OCD Toolbox Organization—No Talking, No Music
 https://www.youtube.com/watch?v=e3hSwLJcxsk
 
+---------------------------------------------------
+Malaware
+---------------------------------------------------
+How Hackers Write Malware & Evade Antivirus (Nim)
+https://www.youtube.com/watch?v=vq6wNGYzdDE
+
