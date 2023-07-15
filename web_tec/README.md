@@ -1,10 +1,20 @@
+## CSS Tricks
+
+Looks like a guy publishing his technical stuff.
+
+https://css-tricks.com/
+
+
+
 ## CSS and HTML
 
 The Mozila website has a good set of examples showing HTML and CSS linked
 
 ### Main Element
 
-The **`<main>`** HTML element represents the dominant content of the **`<body>`** of a document. 
+The **`<main>`** HTML element represents the dominant content of the **`<body>`** of a document.
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
 
 ```html
 <header>Gecko facts</header>
@@ -64,6 +74,8 @@ The CSS code is below
 ### Paragraph Element
 
 The **`<p>`** HTML element represents a paragraph.
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
 
 ### Aside Element
 
