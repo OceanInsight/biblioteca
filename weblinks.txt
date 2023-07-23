@@ -786,3 +786,26 @@ Malaware
 How Hackers Write Malware & Evade Antivirus (Nim)
 https://www.youtube.com/watch?v=vq6wNGYzdDE
 
+---------------------------------------------------
+Automatation
+---------------------------------------------------
+Relays, Current Sensors, Power Supplies...
+https://www.functionaldevices.com/
+
+---------------------------------------------------
+Whiteboard
+---------------------------------------------------
+Web based whiteboard
+https://github.com/tldraw/tldraw
+
+---------------------------------------------------
+Hydration pack
+---------------------------------------------------
+USWE hydration pack
+
+---------------------------------------------------
+Game Engine
+---------------------------------------------------
+GODOT Open source
+https://godotengine.org/
+
