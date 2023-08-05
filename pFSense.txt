@@ -1,0 +1,17 @@
+
+2018 Getting started with pfsense 2.4 from install to secure! including multiple separate networks
+https://www.youtube.com/watch?v=9kSZ1oM-4ZM
+* Running speed test (23:42)
+* Add new network (26:12) later adds DHCP, add firewall rule,
+
+
+How to configure Traffic Monitoring with ntopng on pfsense
+https://www.youtube.com/watch?v=P8oxTUoF2Nw
+
+
+https://docs.netgate.com/pfsense/en/latest/network/index.html
+
+Bridging
+https://docs.netgate.com/pfsense/en/latest/bridges/index.html
+Normally each interface on the pfSense® firewall represents its own broadcast domain with a unique IP subnet.
+

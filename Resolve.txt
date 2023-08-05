@@ -1,0 +1,10 @@
+Resolve
+-------
+https://www.youtube.com/watch?v=h9MrEaELl2M
+
+23:42 Timeline
+
+How to select and move multiple clips at once in DaVinci Resolve
+https://www.youtube.com/watch?v=6q_W_HeshEc
+
+Windows, Ctrl + Y selects everything to the left and Alt + Y selects everything to the right
