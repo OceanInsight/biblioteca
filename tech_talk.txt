@@ -644,6 +644,15 @@ https://dansaks.com/articles.shtml
 Interview Questions
 http://alumni.cs.ucr.edu/~lyan/c++interviewquestions.pdf
 
+SOME UNIQUE C++ CODE! // Pacman Clone Code Review
+https://www.youtube.com/watch?v=OKs_JewEeOo
+
+----------------------------------------------
+iOS Apple
+----------------------------------------------
+Open Source Push Notifications! Get notified of any event you can imagine. Triggers abound!
+https://www.youtube.com/watch?v=WJgwWXt79pE
+
 ----------------------------------------------
 Organization
 ----------------------------------------------
