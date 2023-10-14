@@ -1,0 +1,11 @@
+
+Demonstrating FM Capture Effect
+-------------------------------
+While FM is the standard modulation used for analogue voice communications, aircraft still use AM
+https://www.youtube.com/watch?v=yHRDjhkrDbo
+
+Your Wi-Fi Is Slow Because Of This
+-------------------------------
+Nice demo with SDR and Wifi
+https://www.youtube.com/watch?v=SbR1lRhcuNs
+

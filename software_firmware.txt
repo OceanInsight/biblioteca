@@ -1,0 +1,17 @@
+
+Microcontroller Firmware
+------------------------
+
+From Zero to main() is a series of excellent articles from MemFault describing topics around firmware stuff.
+
+Demystifying Firmware Linker Scripts
+ Excellent article describing the details of the linker script
+ https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware
+
+Bare metal C
+ Describes the process from reset to main. There is an analysis of the gcc tools such as objdump.
+ https://interrupt.memfault.com/blog/zero-to-main-1
+
+How to Write a Bootloader from Scratch
+ 
+ https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch
