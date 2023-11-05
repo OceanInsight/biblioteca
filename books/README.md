@@ -16,5 +16,9 @@ https://www.amazon.com/Polyglot-Notes-Practical-Learning-Language/dp/171695035X
 
 The 6 Types of Working Genius:
 A Better Way to Understand Your Gifts, Your Frustrations, and Your Team
-
 Patrick M. Lencioni
+
+Principles: Life and Work
+Ray Dalio
+Author is the founder of Bridgewater Associates, one of the biggest hedge funds in the world
+
