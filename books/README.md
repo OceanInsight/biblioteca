@@ -13,3 +13,8 @@ Saw this reference on an interview with **Andrew Thomas** founder of SkyBell. Ap
 **Yuriy Ivantsiv**
 
 https://www.amazon.com/Polyglot-Notes-Practical-Learning-Language/dp/171695035X
+
+The 6 Types of Working Genius:
+A Better Way to Understand Your Gifts, Your Frustrations, and Your Team
+
+Patrick M. Lencioni
